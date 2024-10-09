@@ -1,0 +1,3 @@
+[build]
+  publish = "."
+  command = "" # No se necesita ningún comando de build para este proyecto estático
