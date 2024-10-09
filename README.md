@@ -26,4 +26,6 @@ Si deseas probar el proyecto localmente en tu máquina, sigue estos pasos:
 
 ```bash
 git clone https://github.com/ajdirocco/genTodoList.git
-cd todo-list-indexeddb-htmx
+cd genTodoList
+
+### 2. Corre la app usando la extension Live Server
